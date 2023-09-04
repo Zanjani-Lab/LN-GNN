@@ -8,3 +8,5 @@ A. N. Filiatraut and M. B. Zanjania, "Predicting Micro/Nanoscale Colloidal Inter
 
 -Instance_Baesd.py: Data generation, training, and prediction schemes for the Instace-Based framework, described as an example for the binary system of particles.
 
+-datafiles: provides link to the required datafiles for training and prediction being used by the code
+
